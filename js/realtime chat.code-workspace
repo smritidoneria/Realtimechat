@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/agora-app-builder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "realtime chat"
+	}
+}
